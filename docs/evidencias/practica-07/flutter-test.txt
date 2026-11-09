@@ -1,0 +1,18 @@
+$ flutter test
+00:00 +0: loading C:/Practica 7/test/models/tarea_test.dart
+00:00 +0: C:/Practica 7/test/models/tarea_test.dart: copyWith cambia solo los campos indicados
+00:00 +1: C:/Practica 7/test/models/tarea_test.dart: toJson / fromJson son simétricos
+00:00 +2: C:/Practica 7/test/providers/contador_provider_test.dart: incrementar suma uno y notifica
+00:00 +3: C:/Practica 7/test/providers/contador_provider_test.dart: decrementar no baja de cero ni notifica en vano
+00:00 +4: C:/Practica 7/test/providers/contador_provider_test.dart: reiniciar vuelve a cero
+00:00 +5: C:/Practica 7/test/providers/tarea_provider_test.dart: cargar obtiene tareas y calcula métricas
+00:00 +6: C:/Practica 7/test/providers/tarea_provider_test.dart: ordena pendientes primero y por prioridad
+00:00 +7: C:/Practica 7/test/providers/tarea_provider_test.dart: filtro pendientes oculta las completadas
+00:00 +8: C:/Practica 7/test/providers/tarea_provider_test.dart: agregar ignora títulos vacíos
+00:00 +9: C:/Practica 7/test/providers/tarea_provider_test.dart: alternar y eliminar actualizan el estado
+00:00 +10: C:/Practica 7/test/widgets/app_test.dart: (setUpAll)
+00:00 +10: C:/Practica 7/test/widgets/app_test.dart: ejemplo guiado: el contador incrementa
+00:01 +11: C:/Practica 7/test/widgets/app_test.dart: integrador: lista y agrega tareas
+00:01 +12: C:/Practica 7/test/widgets/app_test.dart: formulario valida título vacío
+00:01 +13: C:/Practica 7/test/widgets/app_test.dart: (tearDownAll)
+00:02 +13: All tests passed!
