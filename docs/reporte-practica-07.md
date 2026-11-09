@@ -8,8 +8,8 @@
 | Rama | `practica-07-arquitectura` (desde `develop`) |
 | Equipo | _Completar_ |
 | Fecha | 9 de noviembre de 2026 |
-| Pull request | _Pegar URL de la PR hacia develop_ |
-| Commit final | _Pegar URL del commit_ |
+| Pull request | https://github.com/AngelAndreiLeonAguilar/practica-07-arquitectura/pull/1 |
+| Commit final | Ver la pestaña "Commits" de la PR (último commit de la rama) |
 
 ## 1. Introducción
 
@@ -166,7 +166,7 @@ específicas o máximo rendimiento en una plataforma concreta.
 - Persistencia real (`shared_preferences` o SQLite) implementando otra clase
   de `TareaService`.
 - Limitar el ancho máximo de la lista en pantallas anchas.
-- Completar participantes y enlaces de PR/commit.
+- Completar participantes.
 
 ## 9. Conclusiones
 

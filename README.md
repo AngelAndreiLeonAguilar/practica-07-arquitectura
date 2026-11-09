@@ -136,3 +136,8 @@ El reporte técnico (Anexo A) está en [`docs/reporte-practica-07.md`](docs/repo
 |---|---|---|
 | _Completar_ | _Completar_ | _Completar_ |
 | _Completar_ | _Completar_ | _Completar_ |
+
+## Entrega
+
+- Rama: [`practica-07-arquitectura`](https://github.com/AngelAndreiLeonAguilar/practica-07-arquitectura/tree/practica-07-arquitectura)
+- Pull request hacia `develop`: https://github.com/AngelAndreiLeonAguilar/practica-07-arquitectura/pull/1
